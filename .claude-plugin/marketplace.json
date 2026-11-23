@@ -1,0 +1,14 @@
+{
+  "name": "research-data-qa",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "research-data-qa",
+      "source": "./",
+      "description": "Independently audit research datasets for structural integrity, evidence and provenance, coverage, contradictions, and readiness, with explicit fail-closed gates."
+    }
+  ]
+}

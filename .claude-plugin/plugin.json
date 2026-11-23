@@ -1,0 +1,7 @@
+{
+  "name": "research-data-qa",
+  "description": "Independently audit research datasets for structural integrity, evidence and provenance, coverage, contradictions, and readiness, with explicit fail-closed gates.",
+  "version": "1.0.0",
+  "author": { "name": "The Ask Why Company" },
+  "license": "MIT"
+}
